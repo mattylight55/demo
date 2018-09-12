@@ -1,27 +1,22 @@
 {
-   "posts":[
-      {
-         "allkills":36149,
-         "allmatches":8011,
-         "differencematches":1.0,
-         "playername":"FaZe Thiefs",
-         "timestamp":"2018-09-05 11:59:33.651776",
-         "winner":"True"
-      }
-   ],
-   "comments":[
-      {
-         "id":1,
-         "body":"some comment",
-         "postId":1
-      },
-      {
-         "id":2,
-         "body":"some comment",
-         "postId":1
-      }
-   ],
-   "profile":{
-      "name":"typicode"
-   }
+  "stats": {
+    "player1": {
+      "allkills": "78343", 
+      "allmatches": "10882", 
+      "differencekills": "8.0", 
+      "differencematches": "1.0", 
+      "playername": "Ninja", 
+      "timestamp": "2018-09-12 13:35:32.274299", 
+      "winner": "True"
+    }, 
+    "player2": {
+      "allkills": "13406", 
+      "allmatches": "3787", 
+      "differencekills": "3.0", 
+      "differencematches": "1.0", 
+      "playername": "imtimthetatman", 
+      "timestamp": "2018-09-12 13:35:32.274299", 
+      "winner": "False"
+    }
+  }
 }
